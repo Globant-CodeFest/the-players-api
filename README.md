@@ -1,1 +1,1 @@
-# the-players-api
+# verificados-the-player-api
